@@ -65,3 +65,35 @@ Each row represents a patient's test results and a label representing the thalas
 ```bash
 pip install pytorch-tabnet
 
+
+Upload TRAIN2.csv and test.csv to your working directory or Google Drive.
+
+Run the script or notebook to train the model and get predictions.
+
+📊 Model Details
+Preprocessing:
+
+Label Encoding of categorical features
+
+Standardization with StandardScaler
+
+Stratified K-Fold validation (5-fold)
+
+Model:
+
+TabNetClassifier trained on processed dataset
+
+Balanced class weights
+
+🌐 Web Interface (Planned)
+A lightweight web app (in progress) will allow users to:
+
+Enter their blood test values
+
+Get an instant prediction on the likely interpretation
+
+View explanation and disclaimers
+
+📬 Author
+Rabia Beyza Zengin
+👩‍💻 Software Engineer | AI Enthusiast
