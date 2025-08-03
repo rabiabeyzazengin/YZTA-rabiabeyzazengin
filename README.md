@@ -1,6 +1,7 @@
 # YZTA-rabiabeyzazengin
 Bootcamp project of yzta
 # 🧬 Thalassemia Prediction from Blood Test Results using TabNet
+🔗 [Canlı Demo](https://yzta-rabiabeyzazengin-erqza4qpvdosugr3mjv9wr.streamlit.app/)
 
 This project aims to predict types of thalassemia based on hematological parameters using a deep learning model trained with PyTorch TabNet.
 
