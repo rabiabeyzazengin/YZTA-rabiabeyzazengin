@@ -1,0 +1,7 @@
+streamlit
+pytorch-tabnet
+torch
+numpy
+pandas
+scikit-learn
+joblib
